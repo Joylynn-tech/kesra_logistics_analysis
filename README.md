@@ -28,18 +28,6 @@ Key Findings
 
 | Industry operating rhythm | Tuesday is peak day — 2,204 messages over 2 years 
 
-Dashboard
-
-![KESRA Logistics Intelligence Dashboard](kesra_dashboard.png)
-
-
-
-HS Code Analysis
-
-
-![HS Code Classification Gap](06_hs_code_analysis.png)
-
-
 
 Tools
 Python · pandas · Matplotlib · Seaborn · regex · Jupyter Notebook
