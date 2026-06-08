@@ -30,7 +30,6 @@ Key Findings
 
 Dashboard
 
-
 ![KESRA Logistics Intelligence Dashboard](kesra_dashboard.png)
 
 
