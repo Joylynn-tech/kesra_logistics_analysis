@@ -21,9 +21,13 @@ Key Findings
 | Findings
 
 | Customs Clearance is the #1 point | 622 messages — most discussed topic 
+
 | HS Code classification gap | 181 questions asked, only 14 codes shared — 13:1 gap 
+
 | Dominant trade corridor | Mombasa (463) → Nairobi (340) → Uganda (105) 
+
 | Network activity peak | February 2025 — 897 messages in one month 
+
 | Industry operating rhythm | Tuesday is peak day — 2,204 messages over 2 years 
 
 Dashboard
