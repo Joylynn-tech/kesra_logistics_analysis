@@ -30,11 +30,14 @@ Key Findings
 
 
 Tools
+
 Python · pandas · Matplotlib · Seaborn · regex · Jupyter Notebook
 
 Privacy Note
+
 Raw WhatsApp data is not included in this repository to protect member privacy.
 
 Author
+
 **Joylynn Mumbi Ngari** — Data Analyst, Supply Chain & Logistics  
 [linkedin.com/in/joylynnngari](https://linkedin.com/in/joylynnngari) · [github.com/Joylynn-tech](https://github.com/Joylynn-tech)
