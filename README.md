@@ -18,8 +18,6 @@ using real community data.
 
 Key Findings
 
-| Findings
-
 | Customs Clearance is the #1 point | 622 messages — most discussed topic 
 
 | HS Code classification gap | 181 questions asked, only 14 codes shared — 13:1 gap 
